@@ -2,3 +2,8 @@ dieren:
     - Pinguïns
     - Schildpadden
     - Olifanten
+
+hobbies:
+    - Programmeren
+    - Schrijven
+    - Muziek luisteren
