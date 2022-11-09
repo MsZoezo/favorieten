@@ -1,0 +1,4 @@
+dieren:
+    - Pinguïns
+    - Schildpadden
+    - Olifanten
